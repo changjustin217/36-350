@@ -1,4 +1,6 @@
 cat("Greetings reader!\n\n")
-cat("Earth has intelligent life forms called humans.")
+cat("Earth has intelligent life forms called humans. ")
 cat("We like to look at pictures of cats.\n")
-cat("Do you guys like cats too?")
+cat("Do you guys like cats too?\n")
+cat("I am writing this as an assignment for my final project, isn't that weird???\n")
+cat("Anyways it was swell writing to you, peace homie.")
